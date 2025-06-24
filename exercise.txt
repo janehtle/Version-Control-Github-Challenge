@@ -1,4 +1,4 @@
-What is a terminal?
+# What is a terminal?
 
 To my understanding, when I think of a terminal, I also think about the difference between a terminal
 and a GUI. For a GUI, we utilize icons, mouse, and buttons to interact with our devices and software To
@@ -10,7 +10,7 @@ upload files via the site. But, with the terminal, I can give it commands such a
 to directly "talk" to my computer and allow it to make the necessary changes and steps to do what I need done.
 
 
-Differences between Git and GitHub?
+# Differences between Git and GitHub?
 
 The best analogy that helps me understand the difference between Git and GitHub, that I read once, is that
 Git is a wallet and GitHub is the bank. Git is version control system that can track changes, manage your content,
@@ -21,7 +21,7 @@ that and you can access that "bank" from your phone (virtual wallet in this scen
 "bank."
 
 
-How to fork a repo?
+# How to fork a repo?
 
 On GitHub, go to the repo that you wish to fork and on that page, there should be a fork button that you can click.
 The owner will be yourself if you are the one working on it. If there is any changes you want to make in this
