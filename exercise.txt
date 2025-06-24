@@ -1,0 +1,31 @@
+What is a terminal?
+
+To my understanding, when I think of a terminal, I also think about the difference between a terminal
+and a GUI. For a GUI, we utilize icons, mouse, and buttons to interact with our devices and software To
+have them do what we need them to do. However, when using a terminal we utilize command line interface (CLI)
+to interact with our computer and give it commands to directly tell it what to do and operate on a more
+deeper and internal level compared to GUI. For example, if I want to create a repo and upload files,
+from a GUI route, I can go directly to the website and click on the buttons on the site to create a repo and
+upload files via the site. But, with the terminal, I can give it commands such as mkdir, cd, code, touch, git init,
+to directly "talk" to my computer and allow it to make the necessary changes and steps to do what I need done.
+
+
+Differences between Git and GitHub?
+
+The best analogy that helps me understand the difference between Git and GitHub, that I read once, is that
+Git is a wallet and GitHub is the bank. Git is version control system that can track changes, manage your content,
+make changes, and runs locally on your computer, just like how a wallet is local to you and belongs to you
+and you can track what is inside, and what you put in and take out. GitHub is an web-based platform where
+multiple people can upload, store and share their repositories with others just like how a bank/ATM stores
+that and you can access that "bank" from your phone (virtual wallet in this scenario) and deposit money in that
+"bank."
+
+
+How to fork a repo?
+
+On GitHub, go to the repo that you wish to fork and on that page, there should be a fork button that you can click.
+The owner will be yourself if you are the one working on it. If there is any changes you want to make in this
+section to distinguish it from the original for you, do so. Then click create fork. Then, we will clone the
+repo with Git. In your fork, we will copy the SSH code associated with this repo. Open the terminal, git clone [SSH],
+if you are using anything else other than SSH that requires you to update the info to your personal email, username, or account
+do so, and once you clone the repo and click Enter, it should be ready to work on.
